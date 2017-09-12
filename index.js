@@ -17,4 +17,4 @@ const extractScreenColors = () =>
     }
   });
 
-module.export = extractScreenColors();
+module.exports = extractScreenColors;
