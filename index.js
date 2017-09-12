@@ -2,7 +2,7 @@ const robot = require("robotjs");
 const getColors = require("get-image-colors");
 const Jimp = require("jimp");
 
-const screenCaptureToFile = path =>
+const extractScreenColors = () =>
   new Promise((resolve, reject) => {
     try {
       const picture = robot.screen.capture();
@@ -17,4 +17,4 @@ const screenCaptureToFile = path =>
     }
   });
 
-module.export = screenCaptureToFile();
+module.export = extractScreenColors();
