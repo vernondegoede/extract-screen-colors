@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "Takes a screenshot and returns an array with the most prominent colors on your screen.",
   "main": "index.js",
+  "repository": "vernondegoede/extract-screen-colors",
   "scripts": {},
   "keywords": [],
   "author": "Vernon de Goede",
