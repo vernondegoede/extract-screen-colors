@@ -1,4 +1,6 @@
 # extract-screen-colors
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/vernondegoede/extract-screen-colors.svg)](https://greenkeeper.io/)
 Takes a screenshot and returns an array with the most prominent colors on your screen.
 
 ## Output
