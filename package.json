@@ -11,6 +11,6 @@
   "dependencies": {
     "get-image-colors": "^1.8.1",
     "jimp": "^0.2.28",
-    "robotjs": "^0.4.7"
+    "robotjs": "^0.5.1"
   }
 }
